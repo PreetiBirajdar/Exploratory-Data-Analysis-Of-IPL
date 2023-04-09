@@ -6,7 +6,6 @@ The data set includes information about each match along with the stadium locati
 
 Requirements
 
-
 Python3
 
 
@@ -14,8 +13,10 @@ Project done using Google Colab
 
 Library Requirements
 
-
-
 pandas
+
+
 matplotlib.pyplot 
+
+
 linear_model
