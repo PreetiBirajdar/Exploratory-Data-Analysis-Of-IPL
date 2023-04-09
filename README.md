@@ -1,17 +1,17 @@
 # Exploratory-Data-Analysis-Of-IPL
 
-Dataset
+Dataset:
 We have used dataset of IPL from Kaggle.
 The data set includes information about each match along with the stadium location and details of each team. 
 
-Requirements
+Requirements:
 
 Python3
 
 
-Project done using Google Colab
+Project done using Google Colab.
 
-Library Requirements
+Library Requirements:
 
 pandas
 
