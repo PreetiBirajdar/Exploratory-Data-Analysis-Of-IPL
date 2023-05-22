@@ -23,7 +23,7 @@ Technologies and Tools Used
 The following technologies and tools were utilized for this project:
 
 1. Python: Programming language used for data analysis and visualization.
-2. Jupyter Notebook: Interactive environment for running code and documenting analysis.
+2. Colab Notebook: Interactive environment for running code and documenting analysis.
 3. Pandas: Library for data manipulation and analysis.
 4. Matplotlib and Seaborn: Libraries for data visualization
 
