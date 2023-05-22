@@ -5,6 +5,8 @@ IPL Match Exploratory Data Analysis (EDA)
 This project is focused on conducting Exploratory Data Analysis (EDA) on IPL (Indian Premier League) match data. The IPL is a popular Twenty20 cricket league in India, featuring various teams competing in exciting matches. Through this analysis, we aim to gain insights into the matches, teams, players, and other aspects of the IPL.
 
 Project Overview
+
+
 In this project, we explore a comprehensive dataset of IPL matches, which includes information such as match details, team compositions, player performances, venue details, and more. The dataset provides a wealth of information that we will leverage to uncover interesting patterns, trends, and statistics related to IPL matches.
 
 Objectives
